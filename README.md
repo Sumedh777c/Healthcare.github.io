@@ -33,11 +33,11 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>University:</dt>
 <dd>KLE Technological University</dd>
 <dt>Patient Symptom Analysis and Self Diagnosis/COMPUTER SCIENCE</dt>
-
-# View the code
-<dt>You can view the complete code of the project here:</dt>
-<dd>[View My Code](Hospital.cpp)</dd>
 </dl>
+
+## View the code
+You can view the complete code of the project here:
+[View My Code](Hospital.cpp)
 
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
