@@ -36,7 +36,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## View the code
 You can view the complete code of the project here:
-[View My Code](integrate3 (1).cpp)
+[View My Code](Hospital.cpp)
 </dl>
 
 <br> 
