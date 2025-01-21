@@ -33,6 +33,10 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>University</dt>
 <dd>KLE Technological University</dd>
 <dt>Patient Symptom Analysis and Self Diagnosis/COMPUTER SCIENCE</dt>
+
+## View the code
+You can view the complete code of the project here:
+[View My Code](integrate3 (1).cpp)
 </dl>
 
 <br> 
