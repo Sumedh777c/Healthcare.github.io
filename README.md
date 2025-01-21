@@ -20,23 +20,23 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## Portfolio Topic
 
 <dl>
-<dt>Course Name</dt>
+<dt>Course Name:</dt>
 <dd>Algorithmic Lab</dd>
-<dt>Course Code</dt>
+<dt>Course Code:</dt>
 <dd>24ECSP205</dd>
-<dt>Name</dt>
+<dt>Name:</dt>
 <dd>Sumedh Sanjeev Chitnis</dd>
-<dt>SRN</dt>
+<dt>SRN:</dt>
 <dd>02FE23BCS043</dd>
-<dt>Course Instructor</dt>
+<dt>Course Instructor:</dt>
 <dd>Prof.Vaishali Parab</dd>
-<dt>University</dt>
+<dt>University:</dt>
 <dd>KLE Technological University</dd>
 <dt>Patient Symptom Analysis and Self Diagnosis/COMPUTER SCIENCE</dt>
 
-## View the code
-You can view the complete code of the project here:
-[View My Code](Hospital.cpp)
+# View the code
+<dt>You can view the complete code of the project here:</dt>
+<dd>[View My Code](Hospital.cpp)</dd>
 </dl>
 
 <br> 
